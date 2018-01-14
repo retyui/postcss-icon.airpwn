@@ -1,0 +1,12 @@
+{
+  "name": "postcss-icon.airpwn",
+  "version": "1.0.0",
+  "main": "airpwn.js",
+  "repository": "https://github.com/retyui/postcss-icon.airpwn",
+  "author": "retyui <vamnemne@gmail.com>",
+  "license": "MIT",
+  "files": [],
+  "peerDependencies": {
+    "postcss-icon": "7.x"
+  }
+}
